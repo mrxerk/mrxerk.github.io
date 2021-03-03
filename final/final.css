@@ -54,7 +54,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(stickmod.png);
+    background: url(xbox-assets/stick.svgz);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
